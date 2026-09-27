@@ -1,0 +1,26 @@
+[project]
+name = "chat-svc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "chidhu", email = "chidambaram0001@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "asyncpg>=0.31.0",
+    "datetime>=6.0",
+    "fastapi>=0.141.1",
+    "google-genai>=2.23.0",
+    "pgvector>=0.5.0",
+    "pydantic-settings>=2.15.0",
+    "sqlalchemy>=2.0.54",
+    "uvicorn>=0.52.4",
+]
+
+[project.scripts]
+chat-svc = "chat_svc:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

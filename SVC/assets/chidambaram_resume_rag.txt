@@ -1,0 +1,230 @@
+DOCUMENT_TYPE: Resume
+DOCUMENT_TITLE: Chidambaram - Staff software engineer (Full Stack Developer)
+SOURCE: chidambaramResume2024.pdf
+
+============================================================
+PROFILE
+============================================================
+Name: Chidambaram
+Current Role: Staff software engineer (Full Stack Developer)
+Professional Experience: 9+ years in web application development
+Primary Areas: Frontend development, backend development, full-stack web application development,server infrastructure setup
+Leadership: Team management, onboarding, technical guidance, mentoring
+
+============================================================
+PROFESSIONAL SUMMARY
+============================================================
+Chidambaram is a seasoned professional with 11+ years of expertise in web application development. His experience spans frontend and backend technologies, AI Applications such as RAG and AI agents. enabling him to deliver comprehensive solutions. He has experience in team management, onboarding new members, providing technical guidance, and mentoring team members.
+
+============================================================
+WORK EXPERIENCE
+============================================================
+Company: Bakerhughes
+Location: Bangalore, Karnataka
+Role: Staff Software enginner
+Period: 10/2024 - Present
+
+Responsibilities:
+- Team Lead
+- Involved in Product Design
+- Worked On Rag Applications and AI agent system
+- Used Squad and BMAD framework to do the AI assisted development with less token consumption and more context based
+- Focused on delivering project work with quality.
+
+
+Company: Capgemini
+Location: Bangalore, Karnataka
+Role: Senior Consultant
+Period: 02/2022 - 10/2024
+
+Responsibilities:
+- Worked independently on projects across requirements gathering, design collaboration, development, and project management.
+- Managed clients directly.
+- Learned and adopted new technologies based on project requirements.
+- Adapted new technologies during sprint execution.
+- Focused on delivering project work with quality.
+
+Company: Infosys Limited
+Location: Bangalore, Karnataka
+Role: Technology Analyst
+Period: 06/2018 - 02/2022
+
+Responsibilities:
+- Worked as an integral team member from project inception.
+- Initially worked on frontend applications using Angular.
+- Later worked on backend development using Node.js and MongoDB.
+- Participated in onboarding and training junior team members.
+- Provided technical guidance, mentoring, and support.
+- Helped ensure efficient completion of work items.
+- Led the team.
+
+Company: HCL Technologies
+Location: Chennai, Tamil Nadu
+Role: Member Technical Staff
+Period: 02/2016 - 03/2018
+
+Responsibilities:
+- Worked as a senior UI developer.
+- Created reusable components used across different projects.
+- Managed a complex printer project.
+- Developed responsive web applications for smart solutions using Angular and Bootstrap.
+- Started working with Spring Boot for APIs based on project requirements.
+
+Company: ISPG Technologies
+Location: Bangalore, Karnataka
+Role: UI Developer
+Period: 01/2014 - 08/2015
+
+Responsibilities:
+- Collaborated with team members in frontend application development.
+- Worked on responsive designs.
+- Demonstrated teamwork in frontend development.
+
+============================================================
+PROJECTS
+============================================================
+Project: CORDANT SUIT
+Duration: 2 years
+Description:
+- Asset Health – Monitors industrial equipment such as pumps, compressors, and turbines to identify abnormal conditions and potential failures.
+- Asset Strategy – Helps organizations decide what maintenance action should be taken based on asset condition, risk, cost, and reliability.
+- Asset Integrity – Manages the safety and reliability of physical assets using inspections, risk assessment, and integrity management.
+- Defect Elimination – Investigates recurring equipment problems, identifies root causes, and helps prevent the same failures from happening again.
+- AI & Connected Data – Connects asset, sensor, operational, and enterprise data and uses analytics/AI to generate insights that support predictive and proactive maintenance.
+
+Project: COMCAST Careers
+Duration: 2 years
+URL: https://jobs.comcast.com
+Description:
+- Job portal where users can search and apply for jobs.
+- Maintains data flow from Workday.
+- Application data is maintained through a CMS system.
+- Developed using the MEAN stack.
+
+Project: CPQ
+Duration: 2.5 years
+URL: https://www.optus.com.au/
+Description:
+- Web application used to configure and price quotes for Optus products.
+- Own CPQ product developed using MEAN stack technology.
+
+Project: Field Logistics Module
+Duration: 1.5 years
+URL: https://www.slb.com/
+Description:
+- Web application used to manage and plan logistics for materials and equipment.
+
+Project: Accuro Pro Flux
+Duration: 2 years
+URL: https://accuriopro-flux.com/
+Description:
+- Web application for managing printers and jobs.
+- Supports centralized server storage maintenance.
+- Application designed for production printers and book printing.
+
+Project: oOrjit
+Duration: 1 year
+URL: https://www.oorjit.com/
+Description:
+- Core product for developing e-commerce systems.
+- Includes CMS capabilities.
+- Includes responsive and parallax design.
+- Worked on the following e-commerce applications:
+  - https://www.nrlshop.com/ (3 months)
+  - https://shop.cricket.com.au/ (3 months)
+  - https://kaapus.com/ (3 months)
+
+============================================================
+TECHNICAL SKILLS
+============================================================
+
+Programming Languages:
+- Java
+- TypeScript
+- JavaScript
+- Python
+Frontend:
+- Angular
+- HTML5
+- CSS3
+- Bootstrap
+- SASS
+- jQuery
+- RXJS
+- NGRX
+- Dust JS
+
+Backend:
+- Node.js
+- Express.js
+- MongoDB
+- Spring Boot
+- Microservices
+- Oracle
+- Fast API
+
+Tools / Platforms / Practices:
+- Docker
+- DockerHub
+- Redis
+- AWS EC2
+- Git
+- Agile
+- Scrum
+- Jest
+- Mentoring
+- Kubernetes
+- Redis stream
+- rabbitmq
+- azure bus
+- dynatrace
+- keycloack
+
+
+============================================================
+EDUCATION
+============================================================
+
+Degree: Master of Computer Applications (MCA)
+Institution: Ganadipathy Tulsi's Jain Engineering College (Anna University, Chennai)
+Period: 2010 - 2013
+CGPA: 7.8
+
+Degree: Bachelor of Computer Applications (BCA)
+Institution: VIT University
+Period: 2007 - 2010
+CGPA: 7.6
+
+Higher Secondary School (+2):
+Institution: Thiruvalluvar Higher Secondary School
+Period: 2005 - 2007
+
+Secondary School (10th):
+Percentage information present in source: 67.7%, 74.5%
+(The source formatting does not clearly associate each percentage with a specific education entry.)
+
+============================================================
+CONTACT / ONLINE PROFILES
+============================================================
+Phone: +91 7530003092
+Email: chidambaram0001@gmail.com
+GitHub: https://github.com/chidambaram0001
+
+============================================================
+RAG RETRIEVAL NOTES
+============================================================
+This document is formatted as plain text with explicit section labels and
+self-contained facts to improve semantic retrieval.
+
+Suggested metadata when ingesting:
+- document_type: resume
+- person_name: Chidambaram
+- current_role: Senior Consultant (Full Stack Developer)
+- source_file: chidambaramResume2024.pdf
+
+Recommended chunking:
+- Prefer section/project/experience-based chunks rather than arbitrary PDF pages.
+- Keep each chunk semantically self-contained.
+- Use approximately 300-600 tokens per chunk with a small overlap when implementing
+  generic chunking.
+- For this resume, section-aware chunking is preferable because the document is short.
